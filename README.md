@@ -33,7 +33,8 @@ We will be looking for the following things:
   - Command of basic Python syntax and control flow
   - Comfort with calculating basic descriptive statistics
 
-___
+---
+
 ### Useful Resources
 
 - This draws heavily on Python concepts from the first couple days of class -- review those lectures!
