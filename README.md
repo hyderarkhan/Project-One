@@ -26,8 +26,8 @@ We will be looking for the following things:
 ## Requirements
 
 
-- Materials must be in a clearly commented Jupyter notebook
-- You should demonstrate:
+- Materials must be in a clearly commented Jupyter notebook.
+- Students should demonstrate proficiency with:
 
   - Command of basic Python data structures
   - Command of basic Python syntax and control flow
